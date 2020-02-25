@@ -12,7 +12,7 @@
     - php-process
     - php-simplepie
     - php-xml
-  skip_broken: yes
+    skip_broken: yes
   
 
 - name: Disable default pool
